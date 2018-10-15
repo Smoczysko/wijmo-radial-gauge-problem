@@ -1,0 +1,9 @@
+@import '~wijmo/styles/wijmo.css';
+
+body {
+  padding-top: 50px;
+}
+
+wj-radial-gauge {
+  height: 300px;
+}
